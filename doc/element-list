@@ -1,0 +1,6 @@
+genetic_algorithm.crossover
+genetic_algorithm.factory
+genetic_algorithm.mutation
+genetic_algorithm.population
+genetic_algorithm.runner
+genetic_algorithm.selection
